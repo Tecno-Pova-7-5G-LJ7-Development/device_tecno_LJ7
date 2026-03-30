@@ -1,0 +1,18 @@
+type tkv_block_device, dev_type;
+type tranfs_block_device, dev_type;
+type cam_vpu_block_device, dev_type;
+type nvdata_device, dev_type;
+type nvram_device, dev_type;
+type protect1_block_device, dev_type;
+type protect2_block_device, dev_type;
+type mcf_ota_block_device, dev_type;
+
+type mtk_mdp_device, dev_type;
+type mtk_jpeg_device, dev_type;
+type mtk_cmdq_device, dev_type;
+type kd_camera_hw_device, dev_type;
+type tkcore_admin_device, dev_type;
+type tranlog_device, dev_type;
+type ccci_device, dev_type;
+type teei_client_device, dev_type;
+type gf_device, dev_type;

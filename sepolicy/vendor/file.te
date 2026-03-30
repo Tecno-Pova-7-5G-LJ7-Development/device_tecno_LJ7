@@ -1,0 +1,27 @@
+type sysfs_tran_led_file, sysfs_type, fs_type;
+type sysfs_vibrator, sysfs_type, fs_type;
+type sysfs_batteryinfo, sysfs_type, fs_type;
+type sysfs_pump_express, sysfs_type, fs_type;
+type sysfs_aichg_file, sysfs_type, fs_type;
+type sysfs_tc_charger_file, sysfs_type, fs_type;
+type sysfs_bat_cycle, sysfs_type, fs_type;
+type sysfs_lcm_hbm_file, sysfs_type, fs_type;
+type sysfs_lcm_name_file, sysfs_type, fs_type;
+type sysfs_mtk_tpd_file, sysfs_type, fs_type;
+type sysfs_wireless_file, sysfs_type, fs_type;
+type sysfs_cam_temp_file, sysfs_type, fs_type;
+type sysfs_torch_file, sysfs_type, fs_type;
+type sysfs_sargpio_device, sysfs_type, fs_type;
+
+type tkcore_data_file, file_type, data_file_type;
+type tranlog_data_file, file_type, data_file_type;
+type aee_exp_vendor_file, file_type, data_file_type;
+type mdlog_data_file, file_type, data_file_type;
+type transsion_camera_data_file, file_type, data_file_type;
+type mtk_audiohal_data_file, file_type, data_file_type;
+type mtk_powerhal_data_file, file_type, data_file_type;
+
+type nvcfg_file, file_type, vendor_file_type;
+type nvdata_file, file_type, vendor_file_type;
+type persist_data_file, file_type, vendor_file_type;
+type tranfs_file, file_type, vendor_file_type;
